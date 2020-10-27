@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\bin\Debug\Triggers.exe.config
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\bin\Debug\Triggers.exe
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\bin\Debug\Triggers.pdb
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers_MarkupCompile.cache
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers_MarkupCompile.lref
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.g.resources
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.exe
+C:\Users\Asus\Desktop\GitHub\WPF\Triggers\Triggers\obj\Debug\Triggers.pdb
